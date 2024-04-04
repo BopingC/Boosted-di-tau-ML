@@ -1,0 +1,3 @@
+install lhapdf6
+install boost
+install pythia8

@@ -1,0 +1,4 @@
+# Generate pileup 
+```
+./generatePU.sh 
+```

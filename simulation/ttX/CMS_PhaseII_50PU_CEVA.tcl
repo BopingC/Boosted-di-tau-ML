@@ -135,7 +135,7 @@ module PileUpMerger PileUpMerger {
   set VertexOutputArray vertices
 
   # pre-generated minbias input file
-  set PileUpFile /afs/cern.ch/work/b/bochen/trigger/outsideatlas/hep-simulations-main/GeneratePileup/MinBias.pileup
+  set PileUpFile ../GeneratePileup/MinBias.pileup
   #set PileUpFile MinBias.pileup
 
   # average expected pile up
